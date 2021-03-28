@@ -1,0 +1,24 @@
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\bin\Debug\Task1 BMI Calculator.exe.config
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\bin\Debug\Task1 BMI Calculator.exe
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\bin\Debug\Task1 BMI Calculator.pdb
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\bin\Debug\Task1 BMI Calculator.xml
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1_BMI_Calculator.Form1.resources
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1_BMI_Calculator.Resources.resources
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.vbproj.GenerateResource.Cache
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.vbproj.CoreCompileInputs.cache
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.exe
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.xml
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.pdb
+D:\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.vbprojAssemblyReference.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\bin\Debug\Task1 BMI Calculator.exe.config
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\bin\Debug\Task1 BMI Calculator.exe
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\bin\Debug\Task1 BMI Calculator.pdb
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\bin\Debug\Task1 BMI Calculator.xml
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.vbprojAssemblyReference.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1_BMI_Calculator.Form1.resources
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1_BMI_Calculator.Resources.resources
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.vbproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.exe
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.xml
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task1 BMI Calculator\Task1 BMI Calculator\obj\Debug\Task1 BMI Calculator.pdb
